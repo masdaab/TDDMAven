@@ -12,7 +12,7 @@
     <artifactId>TemperatureConverter</artifactId>
     <packaging>apk</packaging>
 
-    <name>Temperature Converter App</name>
+    <name>Temperature Converter</name>
 
     <properties>
         <android.jayway.version>3.8.2</android.jayway.version>
