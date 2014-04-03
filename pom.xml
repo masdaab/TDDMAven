@@ -36,9 +36,5 @@
             <scope>provided</scope>
 
         </dependency>
-        <dependency>
-            <groupId>android.support</groupId> 
-            <version>${android.support.version}</version>
-        </dependency>
     </dependencies>
 </project>
