@@ -37,8 +37,7 @@
 
         </dependency>
         <dependency>
-            <groupId>android.support</groupId>
-            <artifactId>compatibility-v4</artifactId>
+            <groupId>android.support</groupId> 
             <version>${android.support.version}</version>
         </dependency>
     </dependencies>
