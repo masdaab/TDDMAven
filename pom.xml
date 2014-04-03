@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>pom</packaging>
 
-    <name>Temperature Converter</name>
+    <name>Temp Conv</name>
 
     <modules>
         <module>TemperatureConverter</module>
