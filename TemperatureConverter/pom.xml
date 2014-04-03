@@ -9,6 +9,7 @@
     </parent>
     
     <modelVersion>4.0.0</modelVersion>
+    <groupId>com.ulhack.tc</groupId>
     <artifactId>TemperatureConverter</artifactId>
     <packaging>apk</packaging>
 
